@@ -1,6 +1,10 @@
 # MultithreadedIntentService
-
 Drop-in replacement for Android `IntentService`. This service executes `onHandleIntent` in multiple threads.
+
+## Dependencies
+```
+    compile 'net.tolleri.android:multithreadedintentservice:1.0.0'
+```
 
 ## License
 ```

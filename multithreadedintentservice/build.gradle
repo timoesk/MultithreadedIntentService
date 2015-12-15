@@ -36,7 +36,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = "maven"
-        name = "ResultReceiverFragment"
+        name = "MultithreadedIntentService"
         websiteUrl = siteUrl
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]
